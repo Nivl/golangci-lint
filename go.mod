@@ -54,7 +54,7 @@ require (
 	github.com/ultraware/funlen v0.0.2
 	github.com/ultraware/whitespace v0.0.4
 	github.com/uudashr/gocognit v1.0.1
-	github.com/valyala/quicktemplate v1.5.0
+	github.com/valyala/quicktemplate v1.6.3
 	golang.org/x/mod v0.3.0 // indirect
 	golang.org/x/tools v0.0.0-20200702044944-0cc1aa72b347
 	gopkg.in/yaml.v2 v2.3.0
