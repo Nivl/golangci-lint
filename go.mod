@@ -8,7 +8,7 @@ require (
 	github.com/bombsimon/wsl/v3 v3.1.0
 	github.com/denis-tingajkin/go-header v0.3.1
 	github.com/fatih/color v1.9.0
-	github.com/go-critic/go-critic v0.5.0
+	github.com/go-critic/go-critic v0.5.4
 	github.com/go-xmlfmt/xmlfmt v0.0.0-20191208150333-d5b6f63a941b
 	github.com/gofrs/flock v0.7.1
 	github.com/golangci/check v0.0.0-20180506172741-cfe4005ccda2
@@ -56,7 +56,7 @@ require (
 	github.com/uudashr/gocognit v1.0.1
 	github.com/valyala/quicktemplate v1.5.0
 	golang.org/x/mod v0.3.0 // indirect
-	golang.org/x/tools v0.0.0-20200702044944-0cc1aa72b347
+	golang.org/x/tools v0.0.0-20201230224404-63754364767c
 	gopkg.in/yaml.v2 v2.3.0
 	honnef.co/go/tools v0.0.1-2020.1.4
 	mvdan.cc/gofumpt v0.0.0-20200513141252-abc0db2c416a
